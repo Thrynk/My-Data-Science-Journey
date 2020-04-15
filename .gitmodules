@@ -1,3 +1,6 @@
 [submodule "Introduction"]
 	path = Introduction
 	url = https://gist.github.com/Thrynk/b9b366a4e63a86a1f6f146e2fb061635
+[submodule "Coursera/Johns Hopkins University/Introduction"]
+	path = Coursera/Johns Hopkins University/Introduction
+	url = https://gist.github.com/Thrynk/71275a9060e88509ec6899951efc96d3
