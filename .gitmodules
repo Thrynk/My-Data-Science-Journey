@@ -4,3 +4,6 @@
 [submodule "Coursera/Johns Hopkins University/Introduction"]
 	path = Coursera/Johns Hopkins University/Introduction
 	url = https://gist.github.com/Thrynk/71275a9060e88509ec6899951efc96d3
+[submodule "Coursera/Johns Hopkins University/Statistical Inference/Statistical Inference - Introduction"]
+	path = Coursera/Johns Hopkins University/Statistical Inference/Statistical Inference - Introduction
+	url = https://gist.github.com/Thrynk/71275a9060e88509ec6899951efc96d3
